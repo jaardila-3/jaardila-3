@@ -7,22 +7,11 @@
 #### Social Networks:
 _Personal_
 
-:co: Twitter: @jorgealexardila
-:office: Facebook: alexander.ardila.3914
-:camera: Instagram: _alexander_3288
+* :calling: **Twitter: *****@jorgealexardila
+* :office: **Facebook: *******alexander.ardila.3914
+* :camera: **Instagram: *****_alexander_3288
 
 
 <!--
-**jaardila-3/jaardila-3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+https://gist.github.com/rxaviers/7360908
 -->
