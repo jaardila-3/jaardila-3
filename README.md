@@ -1,10 +1,10 @@
 ![](https://github.com/jaardila-3/jaardila-3/blob/master/programadorAnimado.webp)
 
-# Hello! 👋
-## I'm Jorge Ardila, Java and JavaScript developer.
-### I'm currently building my portfolio and my experience in the design and development of web applications.
+## Hello! 👋
+### I'm Jorge Ardila, Java and JavaScript developer.
+#### I'm currently building my portfolio and my experience in the design and development of web applications.
 
-#### Social Networks:
+##### Social Networks:
 _Personal_
 
 * :calling: **Twitter: *****@jorgealexardila
