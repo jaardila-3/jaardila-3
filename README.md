@@ -1,7 +1,7 @@
 ![](https://github.com/jaardila-3/jaardila-3/blob/master/programadorAnimado.webp) ![](https://github.com/jaardila-3/jaardila-3/blob/master/imagenJava.jpeg) ![](https://github.com/jaardila-3/jaardila-3/blob/master/JavascriptHelloWord.webp)
 
 ## Hello! 👋
-### I'm Jorge Ardila, Java and JavaScript developer.
+### I'm Jorge Ardila, Java and JavaScript developer in progress...
 #### I'm currently building my portfolio and my experience in the design and development of web applications.
 
 ##### Social Networks:
