@@ -1,6 +1,8 @@
-![](/home/alexander/Z-DEVELOP/Apache NetBeansImagen-animada-Java-03.gif)
+![]()
 
-### Hi there 👋
+# Hello! 👋
+## I'm Jorge Ardila, Java and JavaScript developer.
+### I'm currently building my portfolio and my experience in the design and development of web applications.
 
 <!--
 **jaardila-3/jaardila-3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
