@@ -7,9 +7,9 @@
 ##### Social Networks:
 _Personal_
 
-* :calling: **Twitter: *****@jorgealexardila
-* :office: **Facebook: *******alexander.ardila.3914
-* :camera: **Instagram: *****_alexander_3288
+- :calling: **Twitter: ** ***@jorgealexardila***
+- :office: **Facebook: ** ***alexander.ardila.3914***
+- :camera: **Instagram: ** ***_alexander_3288***
 
 
 <!--
