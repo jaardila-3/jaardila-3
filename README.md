@@ -1,4 +1,4 @@
-![]()
+![](https://github.com/jaardila-3/jaardila-3/blob/master/imagenAnimadaJava.gif)
 
 # Hello! 👋
 ## I'm Jorge Ardila, Java and JavaScript developer.
