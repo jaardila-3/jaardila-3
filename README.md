@@ -17,5 +17,5 @@ lista de Gist: https://gist.github.com/rxaviers/7360908
 usar Markdown: https://www.youtube.com/watch?v=y6XdzBNC0_0
 -->
 
-_Proyecto Personal en Java 2019_
+_Proyecto Personal en Java, año 2019_
 (https://github.com/jaardila-3/SISNE/blob/master/pantallazosEjecucion/SisnePrincipal2.png)
