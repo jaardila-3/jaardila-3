@@ -1,4 +1,4 @@
-![](https://github.com/jaardila-3/jaardila-3/blob/master/images/programadorAnimado.webp) ![](https://github.com/jaardila-3/jaardila-3/blob/master/imagenJava.jpeg) ![](https://github.com/jaardila-3/jaardila-3/blob/master/JavascriptHelloWord.webp)
+![](https://github.com/jaardila-3/jaardila-3/blob/master/images/programadorAnimado.webp) ![](https://github.com/jaardila-3/jaardila-3/blob/master/images/imagenJava.jpeg) ![](https://github.com/jaardila-3/jaardila-3/blob/master/images/JavascriptHelloWord.webp)
 
 ## Hello! 👋
 ### I'm Jorge Ardila, Java and JavaScript developer in progress...
