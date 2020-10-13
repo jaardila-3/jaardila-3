@@ -1,8 +1,8 @@
 ![](https://github.com/jaardila-3/jaardila-3/blob/master/images/programadorAnimado.webp) ![](https://github.com/jaardila-3/jaardila-3/blob/master/images/imagenJava.jpeg) ![](https://github.com/jaardila-3/jaardila-3/blob/master/images/JavascriptHelloWord.webp)
 
 ## Hello! 👋
-### I'm Jorge Ardila, Java and JavaScript developer in progress...
-#### I'm currently building my portfolio and my experience in the design and development of web applications.
+### I'm Jorge Ardila, Java, C# with ASP.NET Framework and JavaScript developer...
+#### I'm currently building my portfolio in the design and development of web applications.
 
 ##### Social Networks:
 _Personal_
@@ -10,6 +10,7 @@ _Personal_
 - :calling: **Twitter:**  *@jorgealexardila*
 - :office: **Facebook:**  *alexander.ardila.3914*
 - :camera: **Instagram:**  *_alexander_3288*
+- :office: **WEB:**     *https://jaardila-3.github.io/DEV-ARD/*
 
 
 <!--
