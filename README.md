@@ -10,7 +10,8 @@ _Personal_
 - :calling: **Twitter:**  *@jorgealexardila*
 - :office: **Facebook:**  *alexander.ardila.3914*
 - :camera: **Instagram:**  *_alexander_3288*
-- :office: **WEB:**     *https://jaardila-3.github.io/DEV-ARD/*
+- :office: **WEB:**     *https://dev-ardila.com*
+- :office: **Linkedin:**  *www.linkedin.com/in/jorge-alexander-ardila-restrepo*
 
 
 <!--
@@ -18,5 +19,4 @@ lista de Gist: https://gist.github.com/rxaviers/7360908
 usar Markdown: https://www.youtube.com/watch?v=y6XdzBNC0_0
 -->
 
-_Proyecto Personal en Java, año 2019_
-(https://github.com/jaardila-3/SISNE/blob/master/pantallazosEjecucion)
+
