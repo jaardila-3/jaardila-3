@@ -10,7 +10,7 @@
 
 ## Resumen
 
-Soy un desarrollador ASP.NET con experiencia en el diseño y desarrollo de aplicaciones web, backend, microservicios, entre otros, utilizando tecnologías como HTML, CSS, JavaScript y C# Me apasiona la tecnología y estoy constantemente buscando formas de mejorar mis habilidades y conocimientos.
+Soy un desarrollador ASP.NET con experiencia en el diseño y desarrollo de aplicaciones web, backend, microservicios, entre otros, utilizando tecnologías como HTML, CSS, JavaScript y C#. Me apasiona la tecnología y estoy constantemente buscando formas de mejorar mis habilidades y conocimientos.
 
 ## Educación
 
