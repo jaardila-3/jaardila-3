@@ -4,8 +4,9 @@
 
 ## Información de Contacto
 
-- Correo electrónico: [jorge.ardila1641@correo.policia.gov.co](mailto:jorge.ardila1641@correo.policia.gov.co)
-- Perfil de LinkedIn: [linkedin.com/in/jorge-ardila/](https://www.linkedin.com/in/jorge-ardila/)
+- Correo electrónico: [mail de contacto](mailto:jorge.ardila1641@correo.policia.gov.co)
+- Perfil de LinkedIn: [perfil jorge-ardila](https://www.linkedin.com/in/jorge-ardila/)
+- CV Web: [Jorge Alexander](https://jaardila-3.github.io/)
 - Teléfono: +57 310 389 7228
 
 ## Resumen
