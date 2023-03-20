@@ -22,7 +22,7 @@ Soy un desarrollador ASP.NET con experiencia en el diseño y desarrollo de aplic
 
 ### Analista Desarrollador de Sistemas de Información, Policia Nacional de Colombia
 
-#### Octubre 2019 - Presente
+#### Octubre 2020 - Presente
 
 1. Desarrollo de aplicaciones web utilizando HTML, CSS, JavaScript y C#
 2. Mantenimiento y mejora de aplicaciones web y APIs existentes
