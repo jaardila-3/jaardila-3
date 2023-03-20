@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# Curriculum Vitae - Jorge Ardila
+# Curriculum Vitae - Jorge Alexander Ardila
 
 ## Información de Contacto
 
@@ -16,6 +16,7 @@ Soy un desarrollador ASP.NET con experiencia en el diseño y desarrollo de aplic
 
 - Ingeniería en Informática, Fundación Universitaria Cátolica del Norte, 2013-2018
 - Tecnología en Análisis y Desarrollo de Sistemas de Información, SENA, 2020-2022
+- Técnica Profesional en Seguridad Vial, ESEVI, 2009-2010
 
 ## Experiencia Laboral
 
