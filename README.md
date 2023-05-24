@@ -23,7 +23,7 @@ Soy un desarrollador ASP.NET con experiencia en el diseño y desarrollo de aplic
 
 ### Analista Desarrollador de Sistemas de Información, Policia Nacional de Colombia
 
-#### Octubre 2020 - Presente
+#### Abril 2022 - Presente
 
 1. Desarrollo de aplicaciones web utilizando HTML, CSS, JavaScript y C#
 2. Mantenimiento y mejora de aplicaciones web y APIs existentes
@@ -40,13 +40,7 @@ Soy un desarrollador ASP.NET con experiencia en el diseño y desarrollo de aplic
 - SQL Server
 - Git
 
-## Certificaciones
 
-| Nombre de la certificación         | Emisor | Fecha de obtención |
-| --- | --- | --- |
-| Certificación en microservicios C# | Udemy  | Febrero 2021       |
-| Certificación en Asp.Net           | Udemy  | Agosto 2020        |
-| Certificación en Javascript        | Platzi | Mayo 2019          |
 
 
 <!--
