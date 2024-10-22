@@ -13,7 +13,7 @@ Soy un desarrollador ASP.NET con experiencia en el diseño y desarrollo de aplic
 
 ## Educación
 
-- Ingeniería en Informática, Fundación Universitaria Cátolica del Norte, 2013-2018
+- Ingeniería en Informática, Fundación Universitaria Cátolica del Norte, 2014-2018
 - Tecnología en Análisis y Desarrollo de Sistemas de Información, SENA, 2020-2022
 - Técnica Profesional en Seguridad Vial, ESEVI, 2009-2010
 
