@@ -1,6 +1,4 @@
-### Hi there 👋
-
-# Curriculum Vitae - Jorge Alexander Ardila
+# Curriculum Vitae - Jorge Alexander Ardila Restrepo
 
 ## Información de Contacto
 
@@ -21,12 +19,12 @@ Soy un desarrollador ASP.NET con experiencia en el diseño y desarrollo de aplic
 
 ## Experiencia Laboral
 
-### Analista Desarrollador de Sistemas de Información, Policia Nacional de Colombia
+### Desarrollador de software, Policia Nacional de Colombia
 
-#### Abril 2022 - Presente
+#### Septiembre 2020 - Presente
 
-1. Desarrollo de aplicaciones web utilizando HTML, CSS, JavaScript y C#
-2. Mantenimiento y mejora de aplicaciones web y APIs existentes
+1. Desarrollo de aplicaciones web utilizando HTML, CSS, JavaScript y C# en ASP.NET 8
+2. Mantenimiento y mejora de aplicaciones web y APIs existentes en ASP.NET FRAMEWORK
 3. Colaboración con el equipo de diseño y otros desarrolladores para garantizar la calidad del producto final
 4. Implementación de mejoras de usabilidad y diseño en sitios web existentes
 
@@ -39,7 +37,8 @@ Soy un desarrollador ASP.NET con experiencia en el diseño y desarrollo de aplic
 - PL-SQL
 - SQL Server
 - Git
-
+- Github
+- React.js
 
 
 
