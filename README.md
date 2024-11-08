@@ -4,12 +4,12 @@
 
 - Correo electrónico: [mail de contacto](mailto:jorge.ardila1641@correo.policia.gov.co)
 - Perfil de LinkedIn: [perfil jorge-ardila](https://www.linkedin.com/in/jorge-ardila/)
-- CV Web: [Jorge Alexander](https://jaardila-3.github.io/)
+- CV Web: [Jorge Alexander](https://lemon-river-0cfe8c80f.5.azurestaticapps.net/)
 - Teléfono: +57 310 389 7228
 
 ## Resumen
 
-Soy un desarrollador ASP.NET con experiencia en el diseño y desarrollo de aplicaciones web, backend, microservicios, entre otros, utilizando tecnologías como HTML, CSS, JavaScript y C#. Me apasiona la tecnología y estoy constantemente buscando formas de mejorar mis habilidades y conocimientos.
+Desarrollador de software con sólida experiencia en backend y frontend, especializado en sistemas de información monolíticos y arquitecturas de microservicios. Ingeniero Informático graduado en 2018, con experiencia en tecnologías como ASP.NET Core, C#, React.js, SQL Server y Oracle. Competente en el desarrollo de soluciones eficientes, seguras y escalables que optimizan procesos organizacionales y facilitan la toma de decisiones. Apasionado por la programación, autodidacta y comprometido con la mejora continua de habilidades y buenas prácticas.
 
 ## Educación
 
@@ -19,7 +19,7 @@ Soy un desarrollador ASP.NET con experiencia en el diseño y desarrollo de aplic
 
 ## Experiencia Laboral
 
-### Desarrollador de software, Policia Nacional de Colombia
+### Desarrollador de software
 
 #### Septiembre 2020 - Presente
 
